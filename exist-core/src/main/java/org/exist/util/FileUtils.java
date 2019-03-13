@@ -481,6 +481,10 @@ public class FileUtils {
         }
     }
     
+<<<<<<< HEAD
+=======
+    
+>>>>>>> branch 'feature/BackupSystemTask-branch-4.x.x' of https://github.com/claudius108/exist.git
     /**
      * Provides a filter for entries in a directory.
      *
